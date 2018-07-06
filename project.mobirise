@@ -1,0 +1,1413 @@
+{
+  "settings": {
+    "name": "ClinDerme ",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#df6c6c",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f97352",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#edcdcd",
+        "#8b8585",
+        "#f9f9f9",
+        "#b96868",
+        "#280303",
+        "#411616",
+        "#df6c6c"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.0",
+    "siteFonts": [],
+    "uniqCompNum": 44,
+    "versionPublish": "4.8.0",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-clinderme-simplificada-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "siteUrl": "undefined"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home - ClinDerme",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#797474",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"a-clinica.html\">A CLINÍCA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box1-c\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#contato.html\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://bit.ly/2nD6Wpw\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>(27) 99869-9098</a></li>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#797474"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#797474"
+            },
+            ".link, .dropdown-item": {
+              "color": "#797474"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#797474",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#df6c6c!important"
+            },
+            "A": {
+              "font-size": "14px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo%20clinderme-540x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fundo-inicio-tm-1-1280x640.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#e27474",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#280303",
+            "overlayOpacity": "0.1"
+          },
+          "title": "<i style=\"font-weight: normal;\">Bem-vinda à</i><br><i>ClinDerme</i><br>",
+          "text": "Atendimento diferenciado e profissionais \n<br>competentes para melhor atende-lo",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"#agende.html\" data-toolbar=\"-mbrBtnMove\">AGENDE SUA CONSULTA</a> ",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".mbr-section-title I": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-section-lead": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#7e566f",
+              "text-align": "right"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "text-align": "right",
+              "font-size": "20px"
+            },
+            ".mbr-section-title I": {
+              "color": "#e27474",
+              "font-size": "60px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<i>Você bonita, sempre.</i>",
+          "text": "A Clinderme cuida de sua pele e do seu corpo. Tudo para que você possa se sentir melhor e mais feliz consigo mesma.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-b"
+        },
+        {
+          "_inherit": "features4",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "profile-female",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "happy",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "pencil",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            },
+            "H4": {
+              "color": "#e27474"
+            },
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "title1": "CORPO CLÍNICO",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Equipe competente e especializada lhe acompanhar da melhor forma.",
+          "title2": "SATISFAÇÃO",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Focados sempre no melhor atendimento para garantir a satisfação dos pacientes.",
+          "title3": "CONTATO",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Fale conosco e marque uma consulta ou envie suas dúvidas e sugestões.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_anchor": "features7-3"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fundo-contato-2000x639.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#f1ebeb",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#280303",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Veja as nossa especialidades",
+          "text": "Como podemos te ajudar?",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-c",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "60px"
+            },
+            "H2": {
+              "font-size": "20px",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "2",
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "filterBgColor": false,
+            "bgColor": "#edcdcd",
+            "showText": true,
+            "filter": true,
+            "images": [
+              {
+                "tags": "Tratamentos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/tratamento-celulite-780x633.png",
+                "thumb": "@PROJECT_PATH@/assets/images/tratamento-celulite-780x633-780x633.png",
+                "alt": "",
+                "title": "",
+                "caption": "Celulite",
+                "active": false
+              },
+              {
+                "tags": "Procedimentos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/beautician_box-3-780x633.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beautician-box-3-780x633-780x633.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Laser de CO2 Fracionado",
+                "active": false
+              },
+              {
+                "tags": "Tratamentos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/thumb-18-1-780x633.png",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-18-1-780x633-780x633.png",
+                "alt": "",
+                "title": "",
+                "caption": "Flacidez",
+                "active": false
+              },
+              {
+                "tags": "Procedimentos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/thumb-09-2-780x633.png",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-09-2-780x633-780x633.png",
+                "alt": "",
+                "title": "",
+                "caption": "Depilação a Laser",
+                "active": true
+              },
+              {
+                "tags": "Procedimentos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/clind-saude-780x633.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/clind-saude-780x633-780x633.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Radiofrequência",
+                "active": false
+              },
+              {
+                "tags": "Procedimentos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/clind-saude-780x633.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/clind-saude-780x633-780x633.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Carboxterapia",
+                "active": false
+              },
+              {
+                "tags": "Procedimentos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/clind-saude-780x633.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/clind-saude-780x633-780x633.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Criolipólise",
+                "active": false
+              },
+              {
+                "tags": "Procedimentos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/clind-saude-780x633.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/clind-saude-780x633-780x633.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Limpeza de Pele",
+                "active": false
+              },
+              {
+                "tags": "Procedimentos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/clind-saude-780x633.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/clind-saude-780x633-780x633.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Peeling",
+                "active": false
+              },
+              {
+                "tags": "Procedimentos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/clind-saude-780x633.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/clind-saude-780x633-780x633.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Skinbooster",
+                "active": false
+              },
+              {
+                "tags": "Tratamentos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/beautician_box-1-780x633.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beautician-box-1-780x633-780x633.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Gordura Localizada",
+                "active": false
+              },
+              {
+                "tags": "Tratamentos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/beautician_box-1-780x633.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beautician-box-1-780x633-780x633.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Emagrecimento",
+                "active": false
+              },
+              {
+                "tags": "Tratamentos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/beautician_box-1-780x633.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beautician-box-1-780x633-780x633.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Rejuvenescimento Facia",
+                "active": false
+              },
+              {
+                "tags": "Tratamentos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/beautician_box-1-780x633.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beautician-box-1-780x633-780x633.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Botox",
+                "active": false
+              },
+              {
+                "tags": "Tratamentos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/beautician_box-1-780x633.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beautician-box-1-780x633-780x633.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Cicatriz de Acne&nbsp;<br>",
+                "active": false
+              },
+              {
+                "tags": "Tratamentos",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/beautician_box-1-780x633.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beautician-box-1-780x633-780x633.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Melasma",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "articleLayout": false,
+          "allItem": "<i>Todos</i>",
+          "_name": "gallery4",
+          "_anchor": "gallery4-9",
+          "_styles": {
+            "LI": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#df6c6c"
+            }
+          },
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "<i>Siga-nos</i>",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/clinderme/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-d"
+        },
+        {
+          "_params": {
+            "token": "1268217326.727bfe1.0b8e4ebed3cd472b8ae3e33ca84d9bd6",
+            "showTitle": false,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": "3",
+            "rows": "2",
+            "showMoreButton": false,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": "4",
+            "spacing": 5,
+            "fullWidth": false,
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extesões"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-e"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "R. Dr. Arlíndo Sodré, 558 - CentroSão Mateus - ES, 29930-290",
+              "placeId": "ChIJn4i67KkNygARhR_LeRj1nxk",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-8"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#280303",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo%20clinderme%20-%20%20simplificada-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "success",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Sobre nos</strong><br>A Clinderme é uma clinica completa e moderna que oferece tudo possível ao paciente ao nível de dermatologia, medicina, estética, fisioterapia, nutrição. Temos os melhores maquinários e funcionários extremamente capacitados e compromissados com o bem estar do paciente.<br>",
+          "text2": "<strong>Endereço</strong><br>R. Dr. Arlíndo Sodré, 558 - CentroSão Mateus - ES, 29930-290<br>",
+          "text3": "<strong>Contato</strong><br>Email: contato@clinderme.com.br\n<br>Tel: (27) 99869-9098<br>&nbsp; &nbsp; &nbsp; &nbsp; (27) 37635727&nbsp;<br>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-g",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#280303",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 ClinDerme.",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-h",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "#contato.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Contato - ClinDerme",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#797474",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"a-clinica.html\">A CLINÍCA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box1-c\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#contato.html\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://bit.ly/2nD6Wpw\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>(27) 99869-9098</a></li>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#797474"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#797474"
+            },
+            ".link, .dropdown-item": {
+              "color": "#797474"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#797474",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#df6c6c!important"
+            },
+            "A": {
+              "font-size": "14px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo%20clinderme-540x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-y"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fundo-contato-2000x639.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#df6c6c",
+            "overlay": true,
+            "overlayColor": "#280303",
+            "overlayOpacity": "0",
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "text": "Entre em contato!",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-17"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f9f9f9",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "<span style=\"font-style: normal;\">Clinderme \n<br>R. Dr. Arlíndo Sodré, 558 - Centro, São Mateus\n<br>ES, 29930-290\n<br>Tel.:(27) 37635727 / (27) 99869-9098\n<br>E-mail: contato@clinderme.com.br</span>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVIAR</a>",
+          "form": {
+            "action": "rodrigoatsoc@gmail.com",
+            "alerts": {
+              "success": "Mensagem enviada com sucesso!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nome"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telefone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-15",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SPAN": {
+              "color": "#000000"
+            },
+            "SMALL": {
+              "text-align": "center",
+              "font-size": "24px",
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#df6c6c",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "R. Dr. Arlíndo Sodré, 558 - CentroSão Mateus - ES, 29930-290",
+              "placeId": "ChIJn4i67KkNygARhR_LeRj1nxk",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-16"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#280303",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo%20clinderme%20-%20%20simplificada-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "success",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Sobre nos</strong><br>A Clinderme é uma clinica completa e moderna que oferece tudo possível ao paciente ao nível de dermatologia, medicina, estética, fisioterapia, nutrição. Temos os melhores maquinários e funcionários extremamente capacitados e compromissados com o bem estar do paciente.<br>",
+          "text2": "<strong>Endereço</strong><br>R. Dr. Arlíndo Sodré, 558 - CentroSão Mateus - ES, 29930-290<br>",
+          "text3": "<strong>Contato</strong><br>Email: contato@clinderme.com.br\n<br>Tel: (27) 99869-9098<br>&nbsp; &nbsp; &nbsp; &nbsp; (27) 37635727&nbsp;<br>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-z"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#280303",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 ClinDerme.",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-10"
+        }
+      ]
+    },
+    "#clinica.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "A Cliníca - ClinDerme",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#797474",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"a-clinica.html\">A CLINÍCA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box1-c\">SERVIÇOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#contato.html\">CONTATO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://bit.ly/2nD6Wpw\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>(27) 99869-9098</a></li>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#797474"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#797474"
+            },
+            ".link, .dropdown-item": {
+              "color": "#797474"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#797474",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#df6c6c!important"
+            },
+            "A": {
+              "font-size": "14px"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo%20clinderme-540x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-i"
+        },
+        {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            },
+            "P": {
+              "font-size": "21px"
+            },
+            ".mbr-section-title": {
+              "text-align": "right"
+            },
+            ".mbr-section-title I": {
+              "font-size": "60px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "<i>Conheça nossa história</i>",
+          "caption": "<p>Fundada em 2014 pela Dra Léa Borgo Feitosa, a Clinderme é uma clinica completa e moderna que oferece tudo possível ao paciente ao nível de dermatologia, medicina, estética, fisioterapia, nutrição. Temos os melhores maquinários e funcionários extremamente capacitados e compromissados com o bem estar do paciente.</p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-l"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Construída no centro de São Mateus, conta com uma ampla, confortável e segura estrutura: Várias salas de consultas e procedimentos específicos. Conta também com ambientes bem decorados e aconchegantes para deixar o paciente o mais confortável possível.</p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-p",
+          "_styles": {
+            "P": {
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<i>Missão</i>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-v"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Oferecer aos clientes as mais modernas e efetivas técnicas de diagnóstico e tratamento das doenças e dos inestetismos da pele. Investir na capacitação da equipe e dos colaboradores, criando um ambiente de parceria, amizade, confiança e exclusividade no atendimento dos que buscam nossos serviços.</blockquote>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-q"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<i>Visão</i>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-u"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Ser referencial de excelência no atendimento em Dermatologia Estética no norte do ES.</blockquote>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-r"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<i>Valores</i>",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-t"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Respeito à vida, foco no cliente; busca continua pelos melhores resultados; remuneração digna proporcional à gratificação de nossos clientes; transparência e credibilidade.</blockquote>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-s"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#280303",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo%20clinderme%20-%20%20simplificada-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "success",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Sobre nos</strong><br>A Clinderme é uma clinica completa e moderna que oferece tudo possível ao paciente ao nível de dermatologia, medicina, estética, fisioterapia, nutrição. Temos os melhores maquinários e funcionários extremamente capacitados e compromissados com o bem estar do paciente.<br>",
+          "text2": "<strong>Endereço</strong><br>R. Dr. Arlíndo Sodré, 558 - CentroSão Mateus - ES, 29930-290<br>",
+          "text3": "<strong>Contato</strong><br>Email: contato@clinderme.com.br\n<br>Tel: (27) 99869-9098<br>&nbsp; &nbsp; &nbsp; &nbsp; (27) 37635727&nbsp;<br>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-j"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#280303",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2018 ClinDerme.",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-k",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
